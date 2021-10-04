@@ -392,6 +392,11 @@
 #define TAU "Tau"
 #define TYRANIDS "Tyranids"
 
+
+//City factions
+
+#define Government "The Government"
+
 /*
 #define SKILL_LOW(x) x<=4
 
