@@ -524,10 +524,7 @@ I said no!
 	reagents = list(/datum/reagent/water = 20)
 	result= /obj/item/reagent_containers/food/snacks/wishsoup
 
-/datum/recipe/frostpunksoup
-	reagents = list(/datum/reagent/water = 10)
-	items = list (/obj/item/stack/logs)
-	result= /obj/item/reagent_containers/food/snacks/frostpunksoup
+
 
 /datum/recipe/hotchili
 	fruit = list("chili" = 1, "tomato" = 1)
