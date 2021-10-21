@@ -1,15 +1,15 @@
 
 /datum/map/warhammer
-	name = "Government City 21"
+	name = "Warhammer"
 	full_name = "Warhammer 40k"
 	path = "warhammer"
-	station_name  = "The Government Playground"
-	station_short = "Gland"
-	dock_name     = "Gland"
-	boss_name     = " The Government"
-	boss_short    = "GV"
-	company_name  = "Government"
-	company_short = "GG"
+	station_name  = "The Spirit of Cadia"
+	station_short = "Cadia"
+	dock_name     = "Cadia"
+	boss_name     = "Segmentum Command"
+	boss_short    = "SC"
+	company_name  = "Segmentum Ultima"
+	company_short = "SU"
 	system_name = "Helican Subsector"
 
 	lobby_icon = 'maps/warhammer/fullscreen.dmi'
